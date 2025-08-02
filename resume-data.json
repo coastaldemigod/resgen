@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "tailwindColorName": "gray"
+  },
+  "fullName": "Shivansh Agrawal",
+  "subtext": "Software Engineer - Full Stack Developer",
+  "experiences": {
+    "title": "Work Experience",
+    "content": [
+      {
+        "logo": "<icon>",
+        "company": "Akto.io",
+        "href": "https://www.akto.io",
+        "roles": [
+          {
+            "title": "Software Engineer",
+            "date": "Jun 2023 - Present",
+            "description": "- **Team**: Core\n- Currently working on MCP protection and API source code analysis\n- Worked extensively on source code analysis for API use case and developed a good understanding of LSPs, CPG and ASTs\n- Built AI Agents for API use cases\n- Implemented MCP testing and discovery with a team of 3 developers in under a week, including SSE and event stream support\n- Optimized traffic connectors to handle high traffic with minimal overhead\n- Managed helm charts and deployment files for customers\n- Implemented hybrid SaaS infrastructure handling over 100k requests per minute\n- Owned billing and packaging infrastructure, improving feature packaging and usage measurement\n- Built comprehensive features including swagger imports, webhook integration, centralized logging, custom API collections, authentication, data types, and test libraries\n- Implemented Kubernetes staging setup with automatic rollouts for testing\n- Gained expertise in stakeholder management through customer success work\n- Led complete UI revamp with a team of 3 developers\n- **Tech Stack**: Java, Go, React, GCP, eBPF, Langchain, Helm, MCP"
+          },
+          {
+            "title": "Software Engineer Intern",
+            "date": "Aug 2022 - May 2023",
+            "description": "- **Third Engineer** on the team\n- Implemented eBPF, nginx, envoy, istio, and AWS API Gateway traffic collection modules\n- Built CI/CD support for Akto and GitHub Actions integration\n- Created end-to-end AWS infrastructure using Pulumi for testing module deployment\n- Reduced AWS service deployment time from 15 minutes to under 60 seconds\n- Further optimized deployment time to 15 seconds using helm charts\n- **Tech Stack**: k8s, Java, Vue.js, AWS"
+          }
+        ]
+      },
+      {
+        "logo": "<icon>",
+        "company": "Wells Fargo",
+        "href": "https://www.wellsfargo.com/",
+        "roles": [
+          {
+            "title": "Software Engineer Intern",
+            "date": "Oct 2019 - Apr 2020",
+            "description": "- **Team**: Consumer and Small Business Banking Technology Team\n- Built a stock ticker dashboard that collected and displayed real-time stock data and insights"
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "content": "The fun-loving guy next door who also happens to be a tech-geek. Solving real-world engineering problems at scale."
+  },
+  "skills": {
+    "title": "Skills",
+    "content": [
+      {
+        "name": "Java"
+      },
+      {
+        "name": "Go"
+      },
+      {
+        "name": "eBPF"
+      },
+      {
+        "name": "Langchain"
+      },
+      {
+        "name": "MCP"
+      },
+      {
+        "name": "k8s"
+      },
+      {
+        "name": "AWS"
+      },
+      {
+        "name": "Helm"
+      },
+      {
+        "name": "React"
+      },
+      {
+        "name": "Kafka"
+      },
+      {
+        "name": "MongoDB"
+      },
+      {
+        "name": "GCP"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "content": [
+      {
+        "icon": "email-icon",
+        "label": "shivanshagrawal2411@gmail.com",
+        "href": "mailto:shivanshagrawal2411@gmail.com"
+      },
+      {
+        "icon": "globe-icon",
+        "label": "coastaldemigod.github.io",
+        "href": "https://coastaldemigod.github.io"
+      },
+      {
+        "icon": "linkedin-icon",
+        "label": "linkedin.com/in/agrawal-shivansh",
+        "href": "https://www.linkedin.com/in/agrawal-shivansh/"
+      },
+      {
+        "icon": "github-icon",
+        "label": "github.com/notshivansh [akto.io]",
+        "href": "https://github.com/notshivansh"
+      },
+      {
+        "icon": "github-icon",
+        "label": "github.com/coastaldemigod",
+        "href": "https://github.com/coastaldemigod"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "content": [
+      {
+        "name": "ideabox",
+        "url": {
+          "label": "devfolio.co/projects/ideabox-e310",
+          "href": "https://devfolio.co/projects/ideabox-e310"
+        },
+        "description": "An app to find teammates for projects. [Won at hackTU 3.0]"
+      }
+    ]
+  },
+  "awards": {
+    "title": "Speaking & Recognition",
+    "content": [
+      {
+        "icon": "heroicons:check-circle-20-solid",
+        "href": "https://www.blackhat.com/eu-24/arsenal/schedule/presenters.html#shivansh-agrawal-49479",
+        "label": "Black Hat Europe 2024 Arsenal"
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "content": [
+      {
+        "icon": "heroicons:academic-cap-20-solid",
+        "name": "Bachelor of Engineering - Information Technology",
+        "institute": {
+          "label": "Birla Institute of Technology, Mesra",
+          "href": "https://bitmesra.ac.in"
+        },
+        "duration": "9.02/10"
+      }
+    ]
+  }
+} 
